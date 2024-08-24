@@ -1,0 +1,7 @@
+{
+    "dbHost": "localhost",
+    "dbName": "Personas",
+    "dbUser": "root",
+    "dbPassword": "",
+    "dbport": 3307
+}
